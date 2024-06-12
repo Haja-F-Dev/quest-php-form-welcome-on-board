@@ -8,6 +8,10 @@ header {
     min-height: 50vh;
 }
 
+.other_pages {
+    min-height: 6vh;
+}
+
 header h1 {
     max-width: 8ch;
 }

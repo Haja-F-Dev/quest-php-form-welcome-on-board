@@ -39,3 +39,18 @@ img {
     margin: auto;
     padding: 0 var(--spacing);
 }
+
+.d-flex-center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.cent-vh {
+    height: 80vh;
+}
